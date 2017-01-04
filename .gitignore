@@ -1,0 +1,16 @@
+# osx noise
+.DS_Store
+profile
+
+# xcode noise
+build/
+*.pbxuser
+!default.pbxuser
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.app.dSYM.zip
+*.xcuserstate
